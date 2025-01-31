@@ -47,7 +47,7 @@ The **Expense Tracker Management** project is a full-stack web application built
 - Add custom filters to view up the transactions.
 - Link all the APIs that was defined over backend with Axios
 - Check all the CRED operations operating successfully and observe insight by pie-charts.
-- 
+  
 ## Installation
 
 1. Clone the repository:
