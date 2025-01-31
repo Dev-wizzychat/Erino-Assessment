@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\" "
   },
   "keywords": [],
-  "author": "MiniPro",
+  "author": "Dev-backend",
   "license": "ISC",
   "dependencies": {
     "antd": "^5.19.3",
